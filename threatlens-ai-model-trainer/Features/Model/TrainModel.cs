@@ -2,9 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.ML;
 using Microsoft.ML.Data;
-using System.Diagnostics;
-using Tensorflow.NumPy;
-using Tensorflow.Operations.Initializers;
 using Threatlens.Application.Common;
 
 namespace Threatlens.Application.Features.Model;
